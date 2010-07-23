@@ -1,1 +1,1 @@
-Just one node in the LinkedList, cutey.
+Just one node in the [[LinkedList]], cutie.
