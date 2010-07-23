@@ -1,0 +1,4 @@
+#summary One-sentence summary of this page.
+
+A doubly linked list class that is used to manage lists of data objects.
+
